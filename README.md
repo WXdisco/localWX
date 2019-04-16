@@ -1,9 +1,9 @@
 ![devCUHead](https://www.devcu.net/mediasrc/githubhead_2.gif?V=1.4)
 
-[![License](https://img.shields.io/badge/License-GNUv3-blue.svg)](https://github.com/WXdisco/IPS-localWX/blob/master/LICENSE) [![Version](https://img.shields.io/badge/Version-1.0.0-9cf.svg)](https://www.devcu.com/forums/devcu-tracker/)
-    [![Build](https://img.shields.io/badge/Build-Beta-ff69b4.svg)](https://www.devcu.com/forums/devcu-tracker/)
+[![License](https://img.shields.io/badge/License-GNUv3-important.svg)](https://github.com/WXdisco/IPS-localWX/blob/master/LICENSE) [![Version](https://img.shields.io/badge/Version-1.0.0-ff69b4.svg)](https://www.devcu.com/forums/devcu-tracker/)
+    [![Build](https://img.shields.io/badge/Build-Beta-blueviolet.svg)](https://www.devcu.com/forums/devcu-tracker/)
     [![Status](https://img.shields.io/badge/Status-Unknown-critical.svg)](https://www.devcu.com/forums/devcu-tracker/)
-    [![Development](https://img.shields.io/badge/Development-Active-blue.svg)](https://www.devcu.com/forums/devcu-tracker/)
+    [![Development](https://img.shields.io/badge/Development-Active-success.svg)](https://www.devcu.com/forums/devcu-tracker/)
 
 
 ## ** Become a Patron of devCU **
