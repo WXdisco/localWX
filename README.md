@@ -4,7 +4,7 @@
     [![Build](https://img.shields.io/badge/Build-Beta-blueviolet.svg)](https://www.devcu.com/forums/devcu-tracker/)
     [![Status](https://img.shields.io/badge/Status-Unknown-critical.svg)](https://www.devcu.com/forums/devcu-tracker/)
     [![Development](https://img.shields.io/badge/Development-Active-success.svg)](https://www.devcu.com/forums/devcu-tracker/)
-
+    [![Platform](https://img.shields.io/badge/Platform-IPS4-inactive.svg)](https://www.devcu.com/forums/devcu-tracker/)
 
 ## ** Become a Patron of devCU **
 	
